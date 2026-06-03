@@ -191,6 +191,10 @@ Ollama Observer is meant to answer those questions quickly while also giving you
 
 This project is active and still evolving. Monitoring, history, and settings behavior are being refined as more hardware combinations and real-world usage patterns are tested.
 
+## Development Note
+
+This app was created with the assistance of AI tools during development. The code, behavior, and release decisions should still be reviewed and tested like any other software project.
+
 ## Hardware Disclaimer
 
 This app has currently only been tested on an Intel CPU plus NVIDIA GPU setup.
